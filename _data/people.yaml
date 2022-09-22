@@ -106,3 +106,12 @@
     - Reservoir computing
   applications:
     - Geophysical and astrophysical turbulence
+- name: Longwei Chen
+  social:
+    website: https://environment.leeds.ac.uk/see/staff/9985/dr-longwei-chen
+    github: damao2021
+  techniques:
+    - Physics-informed neural networks
+  applications:
+    - Potential field inversion
+    - Planetary magnetic field modelling
